@@ -10,5 +10,5 @@ various DSLs, but also tooling to analyze and recover the architecture of ocean 
 - ESM recovery and optimization replication package https://github.com/cau-se/esm-architecture-analysis-replication-package
 - CP-DSL replication package (old Java version) https://github.com/cau-se/cp-dsl-replication
 - Interactive visualization of interview themes https://github.com/cau-se/oceandsl-interview-graph/tree/main
-- Python based CP-DSL https://github.com/cau-se/python-oceandsls/tree/main
+- Python based CP-DSL, BGC-DSL and TDD-DSL https://github.com/cau-se/python-oceandsls/tree/main
   
